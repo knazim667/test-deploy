@@ -5,9 +5,8 @@
   "main": "server.js",
   "scripts": {
     "start": "node server",
-    "server": "nodemon server",
-    "client" : "npm start --prefix my-site2",
-    "dev" : "concurrently \"npm run server\" \"npm run client\""
+    "server": "nodemon server"
+  
   },
   "keywords": [
     "blogs"
