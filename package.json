@@ -6,7 +6,6 @@
   "scripts": {
     "start": "node server",
     "server": "nodemon server"
-  
   },
   "keywords": [
     "blogs"
@@ -15,7 +14,7 @@
   "license": "ISC",
   "dependencies": {
     "bcryptjs": "^2.4.3",
-    "concurrently": "^4.1.0",
+    "concurrently": "^5.3.0",
     "config": "^3.1.0",
     "express": "^4.17.1",
     "express-validator": "^5.3.1",
